@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'PizzaTower';
+    src: url('/Fonts/pizza-tower-small.otf');
+}
+
+.pizza-font {
+    -fx-font-family: 'PizzaTower';
+}
